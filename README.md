@@ -1,6 +1,6 @@
 [Personnal background video]
 
-Video for background using nighTab (chrome extension).
+Videos for background (video) using nighTab (chrome extension).
 
 For more information about using this extension for backgrounds go to this link:
 
